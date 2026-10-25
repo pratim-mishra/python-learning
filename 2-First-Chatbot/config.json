@@ -1,0 +1,8 @@
+{
+    "provider": "openai",
+    "models": {
+        "openai" : "gpt-4o-mini",
+        "gemini" : "gemini-3.5-flash-lite",
+        "huggingface" : "deepseek-ai/DeepSeek-R1"
+    }
+}

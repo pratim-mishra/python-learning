@@ -1,0 +1,20 @@
+```gitignore
+# Python virtual environments
+myenv/
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+
+# VS Code settings (optional)
+.vscode/
+```
